@@ -37,7 +37,7 @@ This is my hands-on learning journal. For each AWS Academy module, I will add:
 
 For each module, I will create a detailed markdown file in its own folder (e.g., `/module-01/README.md`) containing:
 
-1.  **Summary Notes**: Key concepts in my own words
+1.  **Summary Notes**: Key concepts
 2.  **Lab Walkthrough**: Step-by-step with **screenshots**
 3.  **Architecture Diagrams**: Visuals created with Draw.io
 4.  **Key Takeaways**: What I learned and how it applies
