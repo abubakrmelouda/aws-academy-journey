@@ -1,10 +1,10 @@
 # Module 1: Cloud Concepts Overview
 
 **Completed:** October 18, 2025  
-**Knowledge Check:** 100/100 🎉  
+**Knowledge Check:** 100/100  
 **Time Spent:** 90 minutes
 
-## 🎯 3 Key Concepts Mastered
+##  3 Key Concepts Mastered
 
 1. **Cloud Computing Models:** 
    - **IaaS (Infrastructure):** Complete control (EC2, S3) - like renting a blank apartment
@@ -24,17 +24,17 @@
    - **Purpose:** Align people, processes, and technology for cloud migration
    - **My Takeaway:** Cloud adoption is an organizational change, not just technical
 
-## 📋 Module Completion Evidence
-- ✅ Watched 5 instructional videos
-- ✅ Reviewed Student Guide (50 pages)
-- ✅ **Achieved 100% on Knowledge Check**
-- ✅ Understood AWS service categories and core services
+##  Module Completion Evidence
+-  Watched 5 instructional videos
+-  Reviewed Student Guide (50 pages)
+-   **Achieved 100% on Knowledge Check**
+-  Understood AWS service categories and core services
 
-## 🧪 Knowledge Check Highlights
+##  Knowledge Check Highlights
 **Questions I Nailed:**
-1. ✅ Cloud advantages over on-premises: **All of the above** (C.A.G.E. framework)
-2. ✅ AWS pricing model: **Pay as you go** (like utility billing)
-3. ✅ Shared Responsibility: **True** (AWS owns hardware, I provision what I need)
+1.  Cloud advantages over on-premises: **All of the above** (C.A.G.E. framework)
+2.  AWS pricing model: **Pay as you go** (like utility billing)
+3.  Shared Responsibility: **True** (AWS owns hardware, I provision what I need)
 
 ## 💡 Real-World Application
 As an **IT consultant**, I can now:
