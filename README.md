@@ -64,3 +64,9 @@ For each module, I will create a detailed markdown file in its own folder (e.g.,
 
 > *"The expert in anything was once a beginner. I'm documenting my journey from beginner to AWS Cloud Practitioner."*  
 > **— Abubakr Melouda**
+
+
+---
+**© 2025 Abubakr Melouda** | AWS Academy Learning Portfolio  
+*Original structure, documentation and diagrams are protected intellectual property.*  
+*Educational inspiration permitted with attribution.*
