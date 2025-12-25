@@ -32,9 +32,9 @@
 
 ##  Knowledge Check Highlights
 **Core Questions:**
-1.  Cloud advantages over on-premises: **All of the above** (C.A.G.E. framework)
+1.  Cloud advantages over on-premises: **Cost Efficiency, Agility & Speed.,Global Reach & Elasticity** (C.A.G.E. framework)
 2.  AWS pricing model: **Pay as you go** (like utility billing)
-3.  Shared Responsibility: **True** (AWS owns hardware, I provision what I need)
+3.  Shared Responsibility: **AWS owns hardware, I provision what I need**
 
 ##   Real-World Application
 As an **IT consultant**, I can now:
