@@ -24,7 +24,7 @@
    - **Purpose:** Align people, processes, and technology for cloud migration
    - **My Takeaway:** Cloud adoption is an organizational change, not just technical
 
-##  Module Completion Evidence
+##  Module Completion
 -  Watched 5 instructional videos
 -  Reviewed Learner Guide (50 pages)
 -   **Achieved 100% on Knowledge Check**
