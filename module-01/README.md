@@ -26,12 +26,12 @@
 
 ##  Module Completion Evidence
 -  Watched 5 instructional videos
--  Reviewed Student Guide (50 pages)
+-  Reviewed Learner Guide (50 pages)
 -   **Achieved 100% on Knowledge Check**
 -  Understood AWS service categories and core services
 
 ##  Knowledge Check Highlights
-**Questions I Nailed:**
+**Core Questions:**
 1.  Cloud advantages over on-premises: **All of the above** (C.A.G.E. framework)
 2.  AWS pricing model: **Pay as you go** (like utility billing)
 3.  Shared Responsibility: **True** (AWS owns hardware, I provision what I need)
