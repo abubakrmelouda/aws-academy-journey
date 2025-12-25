@@ -36,13 +36,13 @@
 2.  AWS pricing model: **Pay as you go** (like utility billing)
 3.  Shared Responsibility: **True** (AWS owns hardware, I provision what I need)
 
-## 💡 Real-World Application
+##   Real-World Application
 As an **IT consultant**, I can now:
 1. Explain cloud benefits using the **6 advantages framework**
 2. Recommend appropriate cloud models (IaaS/PaaS/SaaS) based on client needs
 3. Guide organizations through cloud adoption using **AWS CAF perspectives**
 
-## 🔗 Key Resources from Module 1
+##   Key Resources from Module 1
 - [AWS Cloud Adoption Framework Whitepaper](https://d1.awsstatic.com/whitepapers/aws_cloud_adoption_framework.pdf)
 - [What is AWS? Video](https://aws.amazon.com/awstv/watch/3059da9f36d/)
 - 6 Strategies for Migrating Applications to the Cloud
