@@ -4,10 +4,10 @@
 
 **Name:** Abubakr Melouda  
 **Goal:** Complete AWS Academy Cloud Foundations and document my learning journey  
-**Current Status:** ✅ Module 1 Complete | Module 2 Starting 
+**Current Status:**   Module 1 Complete | Module 2 Starting 
 **Target Certification:** AWS Cloud Practitioner  
 
-## 📚 What This Portfolio Contains
+##   What This Portfolio Contains
 
 This is my hands-on learning journal. For each AWS Academy module, I will add:
 
@@ -17,7 +17,7 @@ This is my hands-on learning journal. For each AWS Academy module, I will add:
 - Problems I faced and how I solved them
 - Real-world use cases
 
-- ## 📋 Module Progress Tracker
+- ##   Module Progress Tracker
 
 | Module | Core Topics | Key AWS Services | Labs & Activities | Status |
 |--------|-------------|------------------|-------------------|--------|
@@ -33,7 +33,7 @@ This is my hands-on learning journal. For each AWS Academy module, I will add:
 | 10 | **Scaling & Monitoring**: ELB, CloudWatch, Auto Scaling | ELB, CloudWatch, Auto Scaling | **Lab 6: Scale & Load Balance Architecture** | 📅 **Planned** |
 | Final | **Course Assessment** | All Services Covered | Final Exam (70%+ to pass) | 📅 **Planned** |
 
-## 📝 My Documentation Process
+##   My Documentation Process
 
 For each module, I will create a detailed markdown file in its own folder (e.g., `/module-01/README.md`) containing:
 
@@ -45,7 +45,7 @@ For each module, I will create a detailed markdown file in its own folder (e.g.,
 
 *All screenshots will have sensitive information (account IDs, etc.) blurred for security.*
 
-## 🛠️ Tools & Technologies
+##   Tools & Technologies
 
 | Category | Tools I'm Using |
 |----------|-----------------|
@@ -53,7 +53,7 @@ For each module, I will create a detailed markdown file in its own folder (e.g.,
 | **Documentation** | GitHub Markdown, VS Code |
 | **Visuals** | Draw.io (diagrams), Snipping Tool (screenshots) |
 | **Version Control** | Git, GitHub |
-| **Organization** | Trello/Notion for task tracking |
+| **Organization** | Trello for task tracking |
 
 ## 🤝 Connect & Follow My Journey
 
