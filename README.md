@@ -1,6 +1,6 @@
 # AWS Academy Cloud Foundations Journey | Abubakr Melouda  
 
-## 👋 About Me  
+##   About Me  
 
 **Name:** Abubakr Melouda  
 **Goal:** Complete AWS Academy Cloud Foundations and document my learning journey  
