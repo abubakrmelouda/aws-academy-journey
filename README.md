@@ -43,7 +43,7 @@ For each module, I will create a detailed markdown file in its own folder (e.g.,
 4.  **Key Takeaways**: What I learned and how it applies
 5.  **Code/Config Snippets**: Where relevant
 
-*All screenshots will have sensitive information (account IDs, etc.) blurred for security.*
+*All screenshots that have sensitive information (account IDs, etc.) blurred for security.*
 
 ##   Tools & Technologies
 
