@@ -4,7 +4,7 @@
 
 **Name:** Abubakr Melouda  
 **Goal:** Complete AWS Academy Cloud Foundations and document my learning journey  
-**Current Status:** Starting Module 1 of 10  
+**Current Status:** ✅ Module 1 Complete | Module 2 Starting 
 **Target Certification:** AWS Cloud Practitioner  
 
 ## 📚 What This Portfolio Contains
@@ -21,8 +21,8 @@ This is my hands-on learning journal. For each AWS Academy module, I will add:
 
 | Module | Core Topics | Key AWS Services | Labs & Activities | Status |
 |--------|-------------|------------------|-------------------|--------|
-| 1 | Cloud Concepts, Value Proposition | (Foundational) | Knowledge Check | 🔄 **In Progress** |
-| 2 | Cloud Economics, Billing, TCO, AWS Organizations | AWS Billing Dashboard, Support Models | Knowledge Check | 📅 **Planned** |
+| 1 | Cloud Concepts, Value Proposition | (Foundational) | **Knowledge Check (100%)** | ✅ **Completed - Oct 18, 2025** |
+| 2 | Cloud Economics, Billing, TCO, AWS Organizations | AWS Billing Dashboard, Support Models | Knowledge Check | 🔄 **In Progress** |
 | 3 | AWS Global Infrastructure, Core Services Overview | Regions, Availability Zones | Knowledge Check | 📅 **Planned** |
 | 4 | **Security**: Shared Responsibility Model, IAM, Compliance | AWS IAM, Security Hub | **Lab 1: Introduction to AWS IAM** | 📅 **Planned** |
 | 5 | **Networking**: VPC, Subnets, Security, Route 53, CloudFront | Amazon VPC, Route 53, CloudFront | **Lab 2: Build VPC & Launch Web Server** | 📅 **Planned** |
