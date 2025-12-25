@@ -55,12 +55,12 @@ For each module, I will create a detailed markdown file in its own folder (e.g.,
 | **Version Control** | Git, GitHub |
 | **Organization** | Trello for task tracking |
 
-## 🤝 Connect & Follow My Journey
+##   Connect & Follow My Journey
 
-- **📅 Start Date:** October 2025
-- **🎯 Target Completion:** December 2025
-- **📊 Progress Updates:** I'll update this README after each module
-- **🔗 Portfolio Link:** `https://github.com/abubakrmelouda/aws-academy-journey`
+- **  Start Date:** October 2025
+- **  Target Completion:** December 2025
+- **  Progress Updates:** I'll update this README after each module
+- **  Portfolio Link:** `https://github.com/abubakrmelouda/aws-academy-journey`
 
 > *"The expert in anything was once a beginner. I'm documenting my journey from beginner to AWS Cloud Practitioner."*  
 > **— Abubakr Melouda**
