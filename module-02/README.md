@@ -48,7 +48,7 @@
 | **Business** | Starts at $100/month | Production | 24/7 phone/chat, Trusted Advisor access |
 | **Enterprise** | Starts at $15,000/month | Mission-critical | Technical Account Manager (TAM), white-glove support |
 
-### **Case Severity Levels:**
+### **AWS Service Levels:**
 1. **Critical:** Business at risk (15 min response - Enterprise)
 2. **Urgent:** Business significantly impacted (1 hour)
 3. **High:** Important functions impaired (4 hours)
