@@ -4,8 +4,7 @@
 
 **Name:** Abubakr Melouda  
 **Goal:** Complete AWS Academy Cloud Foundations and document my learning journey  
-**Current Status:**   Module 1 Complete | Module 2 Starting 
-**Target Certification:** AWS Cloud Practitioner  
+**Status:**   Module 1, 2 Complete
 
 ##   What This Portfolio Contains
 
