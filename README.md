@@ -3,7 +3,7 @@
 ##   About Me  
 
 **Name:** Abubakr Melouda  
-**Goal:** Complete AWS Academy Cloud Foundations and document my learning journey  
+**Goal:** Documenting my learning journey with AWS Academy Cloud Foundations  
 **Status:**   Module 1, 2 Complete
 
 ##   What This Portfolio Contains
@@ -54,11 +54,11 @@ For each module, I will create a detailed markdown file in its own folder (e.g.,
 | **Version Control** | Git, GitHub |
 | **Organization** | Trello for task tracking |
 
-##   Connect & Follow My Journey
+##   My Journey
 
-- **  Start Date:** October 2025
-- **  Target Completion:** December 2025
-- **  Progress Updates:** I'll update this README after each module
+- **  Started Date:** October 2025
+- **  Expected Completion:** December 2025
+- **  Progress Updates:** I'll update this portfolio with all my summary notes, learning and findings after being structured.
 - **  Portfolio Link:** `https://github.com/abubakrmelouda/aws-academy-journey`
 
 > *"The expert in anything was once a beginner. I'm documenting my journey from beginner to AWS Cloud Practitioner."*  
