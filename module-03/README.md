@@ -33,7 +33,7 @@
 - Explored AWS Management Console
 - Understood service categorisation
 
-## Key Insights from the moduel:
+## Key Insights from the module:
 
 ### **Region Selection Factors:**
 1. **Data Governance:** Legal requirements (e.g., EU data must stay in EU)
