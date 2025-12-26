@@ -56,7 +56,7 @@
 5. **Low:** General questions/feature requests (24 hours)
 
 ##  Real-World Application
-As a **Cloud Cost Optimizer** I can:
+As a **Cloud Cost Optimizer** I understand how to:
 
 1. **Calculate accurate TCO** for businesses considering cloud migration
 2. **Design AWS Organizations structure** for enterprise account management
