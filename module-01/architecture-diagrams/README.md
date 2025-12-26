@@ -1,6 +1,6 @@
 # Architecture Diagrams
 
-This folder contains module 1 diagram - cloud concepts for my AWS academy portfolio.
+This folder contains module 1 designed diagram - cloud concepts for my AWS academy portfolio.
 
 ## Tools Used:
 - Draw.io for diagram creation
