@@ -4,7 +4,7 @@
 **Knowledge Check:** 100/100  
 **Time Spent:** 90 minutes
 
-##  3 Key Concepts Mastered
+##  3 Key Concepts:
 
 1. **Cloud Computing Models:** 
    - **IaaS (Infrastructure):** Complete control (EC2, S3) - like renting a blank apartment
@@ -37,7 +37,7 @@
 3.  Shared Responsibility: **AWS owns hardware, I provision what I need**
 
 ##   Real-World Application
-As an **IT consultant**, I can now:
+As an **IT consultant** I can:
 1. Explain cloud benefits using the **6 advantages framework**
 2. Recommend appropriate cloud models (IaaS/PaaS/SaaS) based on client needs
 3. Guide organizations through cloud adoption using **AWS CAF perspectives**
