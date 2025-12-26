@@ -37,7 +37,7 @@
 3.  Shared Responsibility: **AWS owns hardware, I provision what I need**
 
 ##   Real-World Application
-As an **IT consultant** I can:
+As an **IT consultant** I understand how to:
 1. Explain cloud benefits using the **6 advantages framework**
 2. Recommend appropriate cloud models (IaaS/PaaS/SaaS) based on client needs
 3. Guide organizations through cloud adoption using **AWS CAF perspectives**
