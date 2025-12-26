@@ -72,19 +72,6 @@ As a **Cloud Architect**, I understand how to:
 - [Cloud Ping Test](https://www.cloudping.info/)
 - [AWS Service Catalog](https://aws.amazon.com/products/)
 
-## Knowledge Check Performance
-**Score:** 90% (Excellent understanding with minor refinements needed)
-
-**Areas of Strength:**
-- Understanding Regions vs Availability Zones
-- AWS service categories organization
-- Edge locations purpose
-
-**Area for Review:**
-- Specific service names within categories
-
----
-
 **Previous:** [Module 2: Cloud Economics ←](../module-02/README.md)  
 **Next:** [Module 4: AWS Cloud Security →](../module-04/README.md)
 
