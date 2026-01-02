@@ -4,7 +4,7 @@
 
 **Name:** Abubakr Melouda  
 **Goal:** Documenting my learning journey with AWS Academy Cloud Foundations  
-**Status:**   Module 1, 2 Complete
+**Status:** Module 1-6 Complete
 
 ##   What This Portfolio Contains
 
@@ -25,7 +25,7 @@ This is my hands-on learning journal. For each AWS Academy module, I will add:
 | 3 | AWS Global Infrastructure, Core Services Overview | Regions, Availability Zones | **Knowledge Check (90%)**  | **Completed - Oct 20, 2025** |
 | 4 | **Security**: Shared Responsibility Model, IAM, Compliance | AWS IAM, Security Hub | **Lab 1: AWS Identity and Access Management. Lab score (100%) Knowledge Check (90%)** | **Completed - Oct 21, 2025** |
 | 5 | **Networking**: VPC, Subnets, Security, Route 53, CloudFront | Amazon VPC, Route 53, CloudFront | **Lab 2: Build VPC & Launch Web Server** | ****Completed:** October 22, 2025 Lab: (83%) **Knowledge Check:** 90/100**  |
-| 6 | **Compute**: EC2, Lambda, Containers, Elastic Beanstalk | EC2, Lambda, ECS, Elastic Beanstalk | **Lab 3: Intro to EC2**, Lambda & EB Activities | 📅 **Planned** |
+| 6 | **Compute**: EC2, Lambda, Containers, Elastic Beanstalk | EC2, Lambda, ECS, Elastic Beanstalk | **Lab 3: Intro to EC2 (100%)<br>Lambda Activity (75%)<br>Elastic Beanstalk Activity (100%)<br>Knowledge Check (100%)** | **Completed - Nov 1, 2025** |
 | 7 | **Storage**: EBS, S3, EFS, Glacier | EBS, S3, EFS, S3 Glacier | **Lab 4: Working with EBS** | 📅 **Planned** |
 | 8 | **Databases**: RDS, DynamoDB, Redshift, Aurora | RDS, DynamoDB, Aurora | **Lab 5: Build a Database Server** | 📅 **Planned** |
 | 9 | **Architecture**: Well-Architected Framework (6 Pillars) | Trusted Advisor | Knowledge Check | 📅 **Planned** |
