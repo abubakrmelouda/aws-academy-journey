@@ -58,10 +58,10 @@ For each module, I have created a detailed markdown file in its own folder (e.g.
 
 ##   My Journey
 
-- **  Started Date:** October 2025
-- **  Expected Completion:** December 2025
-- **  Progress Updates:** I'll update this portfolio with all my summary notes, learning and findings after content being structured locally.
-- **  Portfolio Link:** `https://github.com/abubakrmelouda/aws-academy-journey`
+- **Started Date:** October 2025
+- **Expected Completion:** December 2025
+- **Progress Updates:** I'll update this portfolio with all my summary notes, learning and findings after content being structured locally.
+- **Portfolio Link:** `https://github.com/abubakrmelouda/aws-academy-journey`
 
 > *"The expert in anything was once a beginner. I'm documenting my journey from beginner to AWS Cloud Practitioner."*  
 > **— Abubakr Melouda**
