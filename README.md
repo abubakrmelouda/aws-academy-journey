@@ -41,6 +41,8 @@ For each module, I have created a detailed markdown file in its own folder (e.g.
 3.  **Architecture Diagrams**: Visuals created with Draw.io
 4.  **Key Takeaways**: What I learned and how it applies
 5.  **Code/Config Snippets**: Where relevant
+6.  **Module Achivement**: Knowledge check score screenshot per module in the image folder
+
 
 *All screenshots that have sensitive information (account IDs, etc.) blurred for security.*
 
