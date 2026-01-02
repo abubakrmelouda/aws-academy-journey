@@ -22,7 +22,7 @@
    - Automatic Scaling: Scales automatically from a few requests per day to thousands per second
    - Integrated Triggers: Works with more than 200 AWS services as event sources
 
-3. **Containerization & Platform Services:**
+3. **Containers & Platform Services:**
    - Containers vs VMs: Lightweight, portable application packages that share the host OS kernel
    - Amazon ECS/EKS: Managed container orchestration services
    - AWS Fargate: Serverless compute engine for containers
