@@ -34,7 +34,7 @@ This is my hands-on learning journal. For each AWS Academy module, I will add:
 
 ##   My Documentation Process
 
-For each module, I will create a detailed markdown file in its own folder (e.g., `/module-01/README.md`) containing:
+For each module, I have created a detailed markdown file in its own folder (e.g., `/module-01/README.md`) containing:
 
 1.  **Summary Notes**: Key concepts
 2.  **Lab Walkthrough**: Step-by-step with **screenshots**
