@@ -129,10 +129,9 @@
    - Focus on application code rather than infrastructure
 
 ### **Activity Performance:**
-**Score:** 25/25 (100%)
-- **Task 1:** Beanstalk console accessed (5/5)
-- **Task 2:** App deployed (15/15)
-- **Task 3:** EC2 console accessed (5/5)
+- **Task 1:** Beanstalk console accessed
+- **Task 2:** App deployed
+- **Task 3:** EC2 console accessed
 
 ### **Key Benefits Observed:**
 1. **Rapid Deployment:** Application deployed in minutes vs hours of manual setup
