@@ -5,7 +5,7 @@
 **Lab Score:** 25/25 (100%)  
 **Time Spent:** 480 minutes
 
-## 3 Key Concepts:
+## Key Concepts:
 
 1. **Amazon EBS (Elastic Block Store):**
    - **Block-level Storage:** Provides persistent block storage volumes for Amazon EC2 instances
