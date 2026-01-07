@@ -3,7 +3,7 @@
 **Completed:** November 6, 2025  
 **Knowledge Check:** 80/100  
 **Lab Score:** 15/20 (75%)  
-**Time Spent:** 5 hours (300 minutes)
+**Time Spent:** 5 hours
 
 ##  Key Concepts:
 
