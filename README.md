@@ -4,7 +4,7 @@
 
 **Name:** Abubakr Melouda  
 **Goal:** Documenting my learning journey with AWS Academy Cloud Foundations  
-**Status:** Module 1-7 Complete
+**Status:** Module 1-8 Complete
 
 ##   What This Portfolio Contains
 
@@ -27,7 +27,7 @@ This is my hands-on learning journal. For each AWS Academy module, I will add:
 | 5 | **Networking**: VPC, Subnets, Security, Route 53, CloudFront | Amazon VPC, Route 53, CloudFront | **Lab 2: Build VPC & Launch Web Server  Lab: (83%) **Knowledge Check:** 90/100** | ****Completed:** October 22, 2025**
 | 6 | **Compute**: EC2, Lambda, Containers, Elastic Beanstalk | EC2, Lambda, ECS, Elastic Beanstalk | **Lab 3: Intro to EC2 (100%)<br>Lambda Activity (75%)<br>Elastic Beanstalk Activity (100%)<br>Knowledge Check (100%)** | **Completed - Nov 1, 2025** |
 | 7 | Storage: EBS, S3, EFS, Glacier | EBS, S3, EFS, S3 Glacier | **Lab 4: Working with EBS (100%)<br>Knowledge Check (70%)** | **Completed - Nov 4, 2025** |
-| 8 | **Databases**: RDS, DynamoDB, Redshift, Aurora | RDS, DynamoDB, Aurora | **Lab 5: Build a Database Server** | 📅 **Planned** |
+| 8 | **Databases**: RDS, DynamoDB, Redshift, Aurora | RDS, DynamoDB, Aurora, Redshift | **Lab 5: Build a Database Server (15/20)<br>Knowledge Check (80%)** | **Completed - Nov 11, 2025** |
 | 9 | **Architecture**: Well-Architected Framework (6 Pillars) | Trusted Advisor | Knowledge Check | 📅 **Planned** |
 | 10 | **Scaling & Monitoring**: ELB, CloudWatch, Auto Scaling | ELB, CloudWatch, Auto Scaling | **Lab 6: Scale & Load Balance Architecture** | 📅 **Planned** |
 | Final | **Course Assessment** | All Services Covered | Final Exam (70%+ to pass) | 📅 **Planned** |
