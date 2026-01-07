@@ -39,7 +39,6 @@
    - Successfully created 1GB General Purpose SSD (gp2) volume
    - Selected appropriate Availability Zone matching EC2 instance
    - Applied proper tagging for resource management
-   - Enabled encryption for data security
 
 2. **Attached and Configured Volume:**
    - Attached EBS volume to running EC2 instance
@@ -51,7 +50,6 @@
    - Created snapshot of EBS volume
    - Restored snapshot to create new volume
    - Verified data integrity after restoration
-   - Managed volume lifecycle properly
 
 ### **Lab Performance:**
 **Score:** 25/25 (100%)
