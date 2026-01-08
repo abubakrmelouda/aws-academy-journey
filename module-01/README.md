@@ -1,6 +1,5 @@
 # Module 1: Cloud Concepts Overview
 
-Module 1: Cloud Concepts Overview
 Completed: October 21, 2025
 Knowledge Check: 100/100
 Time Spent: 2 hours
