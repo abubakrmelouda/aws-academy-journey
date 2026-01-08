@@ -1,9 +1,9 @@
-# Module 8: Database Services-
+# Module 8: Database Services
 
-**Completed:** November 6, 2025  
-**Knowledge Check:** 80/100  
-**Lab Score:** 15/20 (75%)  
-**Time Spent:** 5 hours
+Completed: December 2, 2025
+Knowledge Check: 80/100
+Lab Score: 15/20 (75%)
+Time Spent: 6 hours
 
 ##  Key Concepts:
 
