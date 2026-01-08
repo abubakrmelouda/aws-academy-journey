@@ -118,4 +118,19 @@ ELB, Auto Scaling, CloudWatch offers Dynamic, Scalable Infrastructure
 - Task 5: Auto Scaling verified
 - Task 6: Web Server 1 verified
 
+## Key Takeaways
+
+### Technical Competencies:
+1. **Architectural Design:** Created integrated scaling solutions
+2. **Load Balancing:** Configured ALB with target groups and health checks
+3. **Auto Scaling:** Implemented dynamic scaling policies
+4. **Monitoring:** Set up comprehensive CloudWatch monitoring
+5. **Troubleshooting:** Debugged scaling and load balancing issues
+
+### Business Impact:
+1. **Cost Optimization:** Pay only for needed capacity
+2. **High Availability:** Maintain service during instance failures
+3. **Performance:** Ensure consistent application performance
+4. **Operational Excellence:** Reduced manual intervention
+   
 ### Architecture Built:
