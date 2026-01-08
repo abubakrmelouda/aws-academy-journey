@@ -1,14 +1,11 @@
 # Module 6: Compute Services
 
-**Completed:** November 1, 2025  
-**Knowledge Check:** 100/100  
-**Lab Scores:**  
-- Lab 3: Introduction to Amazon EC2 - 25/25 (100%)  
-- AWS Lambda Activity: 15/20 (75%)  
-- AWS Elastic Beanstalk Activity: 25/25 (100%)  
-**Time Spent:** 180 minutes
+Completed: November 12, 2025
+Knowledge Check: 100/100
+Lab Scores: EC2 (100%), Lambda (75%), Elastic Beanstalk (100%)
+Time Spent: 6 hours
 
-## 3 Key Concepts:
+##  Key Concepts:
 
 1. **Amazon EC2 - The Foundation of AWS Compute:**
    - Virtual Servers in the Cloud: Provides resizable compute capacity with full control over the OS
