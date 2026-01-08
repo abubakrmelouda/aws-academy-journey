@@ -1,4 +1,4 @@
-# Module 8: Database Services
+# Module 8: Database Services.
 
 Completed: December 2, 2025
 Knowledge Check: 80/100
