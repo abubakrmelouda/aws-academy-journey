@@ -8,7 +8,7 @@
 
 ##   What This Portfolio Contains
 
-This is my hands-on learning journal. For each AWS Academy module, I will add:
+This is my hands-on learning journal. For each AWS Academy module, I added:
 
 - Lab exercises with screenshots
 - Step-by-step explanations
