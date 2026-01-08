@@ -5,7 +5,7 @@ Knowledge Check: 90/100
 Lab Score: 25/30 (83%)
 Time Spent: 4 hours
 
-## 3 Key Concepts:
+##  Key Concepts:
 
 1. **Amazon Virtual Private Cloud (VPC) Fundamentals:**
    - **VPC:** Logically isolated network section in AWS (your private cloud slice)
