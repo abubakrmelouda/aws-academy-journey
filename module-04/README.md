@@ -5,7 +5,7 @@ Knowledge Check: 90/100
 Lab Score: 40/40 (100%)
 Time Spent: 4 hours
 
-## 3 Key Concepts:
+##  Key Concepts:
 
 1. **AWS Shared Responsibility Model:**
    - **AWS Responsibility (Security OF the Cloud):** Physical infrastructure, hardware, facilities, network infrastructure, virtualization layer
