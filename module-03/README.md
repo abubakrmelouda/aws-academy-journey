@@ -1,8 +1,8 @@
 # Module 3: AWS Global Infrastructure Overview
 
-**Completed:** October 20, 2025  
-**Knowledge Check:** 90/100  
-**Time Spent:** 75 minutes
+Completed: October 27, 2025
+Knowledge Check: 90/100
+Time Spent: 2 hours
 
 ## 3 Key Concepts:
 
