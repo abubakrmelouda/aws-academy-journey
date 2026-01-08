@@ -4,7 +4,7 @@
 
 **Name:** Abubakr Melouda  
 **Goal:** Documenting my learning journey with AWS Academy Cloud Foundations  
-**Status:** Modules 1-10 Completed Inluding Final Assessment
+**Status:** **AWS Academy Graduate - Cloud Foundations Certified (January 8, 2026)**
 
 ##   What This Portfolio Contains
 
@@ -15,6 +15,21 @@ This is my hands-on learning journal. For each AWS Academy module, I added:
 - Architecture diagrams
 - Problems I faced and how I solved them
 - Real-world use cases
+
+### Key Strengths Identified:
+- **Security**, **Networking**, **Compute**, **Storage**, **Databases** and **Architecture**
+
+## Skills Acquired Throughout the Journey
+
+### Technical Competencies:
+1. **Cloud Fundamentals:** Understanding of cloud concepts, economics, and AWS Global Infrastructure
+2. **Security Implementation:** IAM, security groups, encryption, compliance frameworks
+3. **Networking:** VPC design, subnets, Route 53, CloudFront, network security
+4. **Compute Services:** EC2, Lambda, Elastic Beanstalk, container management
+5. **Storage Solutions:** EBS, S3, EFS, Glacier, storage optimization
+6. **Database Management:** RDS, DynamoDB, Aurora, database migration strategies
+7. **Architectural Design:** Well-Architected Framework, Trusted Advisor, high availability
+8. **Scaling & Monitoring:** Auto Scaling, Load Balancing, CloudWatch, performance optimization
 
 - ##   Module Progress Tracker
 
@@ -30,7 +45,7 @@ This is my hands-on learning journal. For each AWS Academy module, I added:
 | 8 | **Databases**: RDS, DynamoDB, Redshift, Aurora | RDS, DynamoDB, Aurora, Redshift | **Lab 5: Build a Database Server (15/20)<br>Knowledge Check (80%)** | **Completed: December 2, 2025** |
 | 9 | **Architecture**: Well-Architected Framework (6 Pillars) | Trusted Advisor | **Knowledge Check (70%)**  | **Completed: December 15, 2025** |
 | 10 | **Scaling & Monitoring**: ELB, CloudWatch, Auto Scaling | ELB, CloudWatch, Auto Scaling | Lab 6: Scale & Load Balance Architecture (86%)<br>Knowledge Check (90%) | **Completed - Jan 6, 2026** |
-| Final | **Course Assessment** | All Services Covered | Final Exam (70%+ to pass) | 📅 **Planned** |
+| **Final** | **Course Assessment** | **All Services Covered** | **Final Exam: 160/200 (80%)** | **✅ Certified - Jan 8, 2026** |
 
 ##   My Documentation Process
 
@@ -57,11 +72,11 @@ For each module, I have created a detailed markdown file in its own folder (e.g.
 ##   My Journey
 
 - **Started Date:** October 2025
-- **Expected Completion:** January 2026
-- **Progress Updates:** I'll update this portfolio with all my summary notes, learning and findings after content being created and ready for publish.
+- **Completed:** January 2026
+
 - **Portfolio Link:** `https://github.com/abubakrmelouda/aws-academy-journey`
 
-> *"AWS Cloud Learner | I learn by doing | Building toward a Cloud Engineer role."*  
+> *"AWS Cloud Learner | I learn by doing | I'm excited to build upon this foundation."*  
 > **— Abubakr Melouda**
 
 
