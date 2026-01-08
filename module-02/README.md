@@ -1,4 +1,4 @@
-# Module 2: Cloud Economics and Billing
+# Module 2: Cloud Economics and Billing.
 
 Completed: October 24, 2025
 Knowledge Check: 70/100
