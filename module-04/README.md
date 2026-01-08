@@ -1,4 +1,4 @@
-# Module 4: AWS Cloud Security
+# Module 4: AWS Cloud Security.
 
 Completed: October 30, 2025
 Knowledge Check: 90/100
