@@ -1,4 +1,4 @@
-# Module 7: Storage Services
+# Module 7: Storage Services.
 
 Completed: November 20, 2025
 Knowledge Check: 70/100
