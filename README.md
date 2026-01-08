@@ -44,8 +44,6 @@ For each module, I have created a detailed markdown file in its own folder (e.g.
 6.  **Module Achivement**: Knowledge check score screenshot per module in the image folder
 
 
-*All screenshots that have sensitive information (account IDs, etc.) blurred for security.*
-
 ##   Tools & Technologies
 
 | Category | Tools I'm Using |
