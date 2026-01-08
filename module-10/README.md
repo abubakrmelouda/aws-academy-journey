@@ -1,4 +1,4 @@
-# Module 10: Auto Scaling and Monitoring
+# Module 10: Auto Scaling and Monitoring.
 
 **Completed:** January 6, 2026  
 **Knowledge Check:** (90%)  
