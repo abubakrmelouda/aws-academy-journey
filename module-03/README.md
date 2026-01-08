@@ -1,4 +1,4 @@
-# Module 3: AWS Global Infrastructure Overview
+# Module 3: AWS Global Infrastructure Overview.
 
 Completed: October 27, 2025
 Knowledge Check: 90/100
