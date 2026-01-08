@@ -1,4 +1,4 @@
-# Module 6: Compute Services
+# Module 6: Compute Services.
 
 Completed: November 12, 2025
 Knowledge Check: 100/100
