@@ -12,7 +12,7 @@ This folder contains official documentation of my AWS Academy Cloud Foundations 
 #### Documents:
 | File | Description | Purpose |
 |------|-------------|---------|
-| `aws-academy-certificate.pdf` | Official certificate PDF | Proof of completion |
+| `aws-academy-Badge.png` | Official certificate PDF | Proof of completion |
 | `certificate-screenshot.png` | Certificate visual | Portfolio display |
 | `final-assessment-results.png` | Final exam score screenshot | Performance verification |
 | `module-scores-breakdown.png` | Detailed module performance | Skill breakdown |
