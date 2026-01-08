@@ -1,4 +1,4 @@
-# Module 9: Cloud Architecture & The Well-Architected Framework
+# Module 9: Cloud Architecture & The Well-Architected Framework.
 
 Completed: December 15, 2025
 Knowledge Check: 70/100
