@@ -1,9 +1,9 @@
 # Module 4: AWS Cloud Security
 
-**Completed:** October 21, 2025  
-**Knowledge Check:** 90/100  
-**Lab Score:** 40/40 (100%) 
-**Time Spent:** 120 minutes
+Completed: October 30, 2025
+Knowledge Check: 90/100
+Lab Score: 40/40 (100%)
+Time Spent: 4 hours
 
 ## 3 Key Concepts:
 
