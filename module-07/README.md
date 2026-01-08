@@ -1,9 +1,9 @@
 # Module 7: Storage Services
 
-**Completed:** November 4, 2025
-**Knowledge Check:** 70/100  
-**Lab Score:** 25/25 (100%)  
-**Time Spent:** 480 minutes
+Completed: November 20, 2025
+Knowledge Check: 70/100
+Lab Score: 25/25 (100%)
+Time Spent: 8 hours
 
 ## Key Concepts:
 
