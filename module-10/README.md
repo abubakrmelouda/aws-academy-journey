@@ -60,7 +60,7 @@ Service that helps maintain application availability by automatically adding or 
 - **Health Checks:** Replace unhealthy instances automatically
 
 ### 4. Integrated Architecture Pattern
-ELB + Auto Scaling + CloudWatch = Dynamic, Scalable Infrastructure
+ELB, Auto Scaling, CloudWatch offers Dynamic, Scalable Infrastructure
 
 **Flow:**
 1. CloudWatch monitors metrics (CPU utilization, request count)
