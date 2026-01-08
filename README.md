@@ -4,7 +4,7 @@
 
 **Name:** Abubakr Melouda  
 **Goal:** Documenting my learning journey with AWS Academy Cloud Foundations  
-**Status:** Module 1-9 Complete
+**Status:** Modules 1-10 Completed Inluding Final Assessment
 
 ##   What This Portfolio Contains
 
@@ -29,7 +29,7 @@ This is my hands-on learning journal. For each AWS Academy module, I added:
 | 7 | **Storage**: EBS, S3, EFS, Glacier | EBS, S3, EFS, S3 Glacier | **Lab 4: Working with EBS (100%)<br>Knowledge Check (70%)** | **Completed: November 20, 2025** |
 | 8 | **Databases**: RDS, DynamoDB, Redshift, Aurora | RDS, DynamoDB, Aurora, Redshift | **Lab 5: Build a Database Server (15/20)<br>Knowledge Check (80%)** | **Completed: December 2, 2025** |
 | 9 | **Architecture**: Well-Architected Framework (6 Pillars) | Trusted Advisor | **Knowledge Check (70%)**  | **Completed: December 15, 2025** |
-| 10 | **Scaling & Monitoring**: ELB, CloudWatch, Auto Scaling | ELB, CloudWatch, Auto Scaling | **Lab 6: Scale & Load Balance Architecture** | 📅 **Planned** |
+| 10 | **Scaling & Monitoring**: ELB, CloudWatch, Auto Scaling | ELB, CloudWatch, Auto Scaling | Lab 6: Scale & Load Balance Architecture (86%)<br>Knowledge Check (90%) | **Completed - Jan 6, 2026** |
 | Final | **Course Assessment** | All Services Covered | Final Exam (70%+ to pass) | 📅 **Planned** |
 
 ##   My Documentation Process
