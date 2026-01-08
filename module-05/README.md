@@ -1,4 +1,4 @@
-# Module 5: Networking and Content Delivery
+# Module 5: Networking and Content Delivery.
 
 Completed: November 4, 2025
 Knowledge Check: 90/100
