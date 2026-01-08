@@ -1,9 +1,9 @@
 # Module 5: Networking and Content Delivery
 
-**Completed:** October 22, 2025  
-**Knowledge Check:** 90/100  
-**Lab Score:** 25/30 (83%)  
-**Time Spent:** 120 minutes
+Completed: November 4, 2025
+Knowledge Check: 90/100
+Lab Score: 25/30 (83%)
+Time Spent: 4 hours
 
 ## 3 Key Concepts:
 
