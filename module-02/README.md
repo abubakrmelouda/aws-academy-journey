@@ -1,8 +1,8 @@
 # Module 2: Cloud Economics and Billing
 
-**Completed:** October 19, 2025  
-**Knowledge Check:** 70/100
-**Time Spent:** 90 minutes
+Completed: October 24, 2025
+Knowledge Check: 70/100
+Time Spent: 2 hours
 
 ##  3 Key Concepts:
 
